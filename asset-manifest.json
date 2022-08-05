@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-color-code/static/css/main.64ae51f2.css",
+    "main.js": "/react-color-code/static/js/main.71f67e94.js",
+    "static/js/787.11bff1a7.chunk.js": "/react-color-code/static/js/787.11bff1a7.chunk.js",
+    "index.html": "/react-color-code/index.html",
+    "main.64ae51f2.css.map": "/react-color-code/static/css/main.64ae51f2.css.map",
+    "main.71f67e94.js.map": "/react-color-code/static/js/main.71f67e94.js.map",
+    "787.11bff1a7.chunk.js.map": "/react-color-code/static/js/787.11bff1a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64ae51f2.css",
+    "static/js/main.71f67e94.js"
+  ]
+}
